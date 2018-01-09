@@ -1,6 +1,4 @@
-//Anusha Swamy
-//Satvir Singh 
-//Homework 4
+//Anusha Swamy//
 package account;
 
 import java.util.Random;
